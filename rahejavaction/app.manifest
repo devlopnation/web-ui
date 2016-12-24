@@ -1,0 +1,10 @@
+CACHE MANIFEST
+#VER 2.2
+CACHE:
+#new changes
+*.js
+*.css
+*.html
+
+NETWORK:
+* 
